@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('career-leaner:server');
+var debug = require('debug')('career-guid:server');
 var http = require('http');
 
 /**
